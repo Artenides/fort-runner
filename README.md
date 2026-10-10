@@ -1,4 +1,4 @@
-# Vaultrunner — Design Doc
+# Fortrunner — Design Doc
 
 
 ## Concept
@@ -7,7 +7,7 @@ A GPS-anchored augmented-reality app: a persistent digital layer over real-world
 
 The loop is discover, approach, hack, earn, upgrade, repeat.
 
-**Terminology:** this design uses original, made-up terms throughout (INARN, Rig, Fort, Vault, Entity, and so on — see Terminology below), so no existing franchise's trademarked names, factions, or iconography need to appear in a shipped product. Art and copy should follow the same rule. **Working name** for the app itself: **Vaultrunner**.
+**Terminology:** this design uses original, made-up terms throughout (INARN, Rig, Fort, Vault, Entity, and so on — see Terminology below), so no existing franchise's trademarked names, factions, or iconography need to appear in a shipped product. Art and copy should follow the same rule. **Working name** for the app itself: **Fortrunner**.
 
 ## Terminology
 
