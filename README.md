@@ -1,6 +1,5 @@
 # Vaultrunner — Design Doc
 
-Oct 10, 2026 · @Csaba
 
 ## Concept
 
